@@ -1,2 +1,2 @@
 # RecsAndSpecsMidterm
-![](1.pdf)
+![](1-1.png)
