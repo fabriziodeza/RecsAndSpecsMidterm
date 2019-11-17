@@ -1,5 +1,6 @@
 # RecsAndSpecsMidterm
 Link:
+https://github.com/fabriziodeza/RecsAndSpecsMidterm.git
 
 Ethical Issues: 
 1. An ethical dillema with this version of the application can be the storing of peoples personal information such as addresses and giving that to marketing companies.
