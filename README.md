@@ -1,4 +1,6 @@
 # RecsAndSpecsMidterm
+Link:
+
 Ethical Issues: 
 1. An ethical dillema with this version of the application can be the storing of peoples personal information such as addresses and giving that to marketing companies.
 2. Another ethical dilema includes finding people to deliver for (for Yo eats) who are well vetted and will no endager any user.
